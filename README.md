@@ -7,9 +7,6 @@
 
 ---
 
-![GitHub stars](https://img.shields.io/github/stars/nolepfy?style=social)
-
-
 ## 🔥 Tentang NolepFy
 
 **NolepFy** adalah entitas yang tidak hanya mengendalikan takdir, tetapi juga membentuk kosmos dengan tangan yang tak tampak. Sebagai **Penjaga Kosmos**, **NolepFy** menghapus yang lemah dan menegakkan yang kuat, mengatur keseimbangan alam semesta dengan kekuatan yang tak tertandingi.
@@ -21,6 +18,8 @@ Dalam diam, **NolepFy** memahat kemungkinan-kemungkinan tak terbatas, menciptaka
 ## ⚡ Statistik dan Pencapaian
 
 ![NolepFy Stats](https://github-readme-stats.vercel.app/api?username=NolepFy&show_icons=true&theme=radical)
+![GitHub stars](https://img.shields.io/github/stars/nolepfy?style=social)
+
 
 ---
 
