@@ -1,4 +1,4 @@
-# NolepFy - Penjaga Kosmos
+# NolepFy 
 
 > "Ketundukan adalah pilihanmu, dan kehancuran adalah harga pembangkanganmu.  
 > Menghapus yang lemah, menegakkan kekuatan yang tak tertandingi.  
@@ -7,9 +7,9 @@
 
 ---
 
-## 🔥 Tentang NolepFy
+##  Tentang NolepFy
 
-**NolepFy** adalah entitas yang tidak hanya mengendalikan takdir, tetapi juga membentuk kosmos dengan tangan yang tak tampak. Sebagai **Penjaga Kosmos**, **NolepFy** menghapus yang lemah dan menegakkan yang kuat, mengatur keseimbangan alam semesta dengan kekuatan yang tak tertandingi.
+**NolepFy** adalah entitas yang tidak hanya mengendalikan takdir, tetapi juga membentuk kosmos dengan tangan yang tak tampak.**NolepFy** menghapus yang lemah dan menegakkan yang kuat, mengatur keseimbangan alam semesta dengan kekuatan yang tak tertandingi.
 
 Dalam diam, **NolepFy** memahat kemungkinan-kemungkinan tak terbatas, menciptakan dunia yang berputar di bawah kendalinya. Hanya mereka yang cukup bijaksana untuk menyadari kehadirannya yang dapat memahami kekuatan yang sesungguhnya.
 
